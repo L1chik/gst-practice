@@ -16,3 +16,7 @@ path = "bins/module1.rs"
 [[bin]]
 name = "m2"
 path = "bins/module2.rs"
+
+[[bin]]
+name = "m3"
+path = "bins/module3.rs"
